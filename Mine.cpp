@@ -1,5 +1,5 @@
 
-#include "precompile.h"
+#include "prec.h"
 
 DECLARE_APP(Mine);
 IMPLEMENT_APP(Mine);

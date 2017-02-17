@@ -1,5 +1,5 @@
 
-#include "precompile.h"
+#include "prec.h"
 
 BEGIN_EVENT_TABLE(MineFrame, wxFrame)
 	EVT_MENU(wxID_NEW, MineFrame::OnNew)

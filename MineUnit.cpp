@@ -1,5 +1,5 @@
 
-#include "precompile.h"
+#include "prec.h"
 
 BEGIN_EVENT_TABLE(MineUnit, wxControl)
 	EVT_BUTTON(wxID_ANY, MineUnit::OnClick)
