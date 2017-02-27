@@ -1,3 +1,9 @@
+
+# Executables without extensions
+[a-z]*
+!/**/
+![a-z]*.*
+
 # Compiled Object files
 *.slo
 *.lo
@@ -24,7 +30,6 @@
 *.lib
 
 # Executables
-mine
 *.exe
 *.out
 *.app
